@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Title of the app
-st.title("k-Nearest Neighbour (k-NN) Classification of Iris Dataset")
+st.title("22AIA-Binary Wizards-k-Nearest Neighbour (k-NN) Classification of Iris Dataset")
 
 # Manually load Iris dataset
 def load_iris_dataset():
